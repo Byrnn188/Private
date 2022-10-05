@@ -6,6 +6,7 @@ public class Park {
         int y = 0;
         String s= "lala";
         String s1="ooo";
+        String s2="iiii";
     }
     public int add(int x, int y){
         return(x+y + x);
