@@ -7,7 +7,7 @@ public class Park {
         String s= "lala";
     }
     public int add(int x, int y){
-        return(x+y);
+        return(x+y + x);
     }
     public int substract(int x, int y){
         return(x-y);
