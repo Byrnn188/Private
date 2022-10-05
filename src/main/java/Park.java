@@ -9,5 +9,8 @@ public class Park {
     public int substract(int x, int y){
         return(x-y);
     }
+    public void output(){
+        System.out.println("h");
+    }
 
 }

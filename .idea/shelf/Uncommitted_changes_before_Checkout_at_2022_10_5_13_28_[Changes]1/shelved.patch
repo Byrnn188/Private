@@ -1,0 +1,17 @@
+Index: src/main/java/Park.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Park.java b/src/main/java/Park.java
+--- a/src/main/java/Park.java	
++++ b/src/main/java/Park.java	
+@@ -9,5 +9,8 @@
+     public int substract(int x, int y){
+         return(x-y);
+     }
++    public void nihao(){
++        System.out.println("nihao");
++    }
+ 
+ }
