@@ -4,6 +4,7 @@ public class Park {
         System.out.println("nihao!");
         int x = 0;
         int y = 0;
+        String s= "lala";
     }
     public int add(int x, int y){
         return(x+y);
