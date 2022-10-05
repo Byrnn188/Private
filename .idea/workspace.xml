@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c09696e1-55f0-4435-8c7a-f3ae019a8f85" name="Changes" comment="second commit branch2">
+    <list default="true" id="c09696e1-55f0-4435-8c7a-f3ae019a8f85" name="Changes" comment="first commit master">
       <change beforePath="$PROJECT_DIR$/src/main/java/Park.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Park.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
